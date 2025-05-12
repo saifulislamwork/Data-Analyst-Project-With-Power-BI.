@@ -22,8 +22,7 @@ These results show how visual data analysis may guide decisions about product em
 
 Dashboard Interaction <a href="https://github.com/saifulislamwork/Data-Analyst-Project-With-Power-BI./blob/main/Power%20BI%20Viz.jpg"> VIEW DASHBOARD </a>
 
+## DASHBOARD:
 
 
-
-
-https://github.com/saifulislamwork/Data-Analyst-Project-With-Power-BI./blob/main/Power%20BI%20Viz.jpg
+![Power BI Viz](https://github.com/user-attachments/assets/46920a6f-3fb7-4a02-8e75-aa3e21723134)
