@@ -5,3 +5,8 @@ I developed a comprehensive Power BI project of United States Chocolates Annual 
 
 ## Dataset Used:
 - <a href="https://github.com/saifulislamwork/Data-Analyst-Project-With-Power-BI./blob/main/Sample%20Data%20Power%20BI.xlsx"> DATASET </a>
+
+
+
+
+- <a href="https://github.com/saifulislamwork/Data-Analyst-Project-With-Power-BI./blob/main/Power%20BI%20Viz.jpg"> DATASET </a>
