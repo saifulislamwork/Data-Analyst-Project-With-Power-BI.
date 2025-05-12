@@ -24,5 +24,8 @@ Dashboard Interaction <a href="https://github.com/saifulislamwork/Data-Analyst-P
 
 ## DASHBOARD:
 
-
 ![Power BI Viz](https://github.com/user-attachments/assets/46920a6f-3fb7-4a02-8e75-aa3e21723134)
+
+## Conclusion:
+
+The stark difference in product performance — with “50% Dark Bites” leading sales and “Mint Choc Choco” lagging behind — reinforces the value of consumer preference analysis. These insights underscore the importance of monitoring product-level data to understand what resonates with customers. Moreover, the observed decline in revenue from the “Other” category and the rise in milk bar sales reflect shifting market preferences. For businesses, this means regularly reassessing their product mix and adjusting offerings based on up-to-date data trends to stay aligned with evolving consumer tastes.
