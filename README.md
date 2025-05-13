@@ -1,6 +1,6 @@
-# Business Sales Visualization ( Power BI ).
+# Business Sales Visualization.
 
-## Project Objective:
+## Project Objective ( Power BI ):
 I developed a comprehensive Power BI project of United States Chocolates Annual Sales report 2022, creating multiple dashboards and tables to analyze the data. This visualization must help the owner of chocolate company for better understend their customer and grow more sales in 2023 & 2024.
 
 ## Dataset Used:
@@ -33,9 +33,9 @@ The stark difference in product performance — with “50% Dark Bites” leadin
 
 
 
-##Business Sales Visualization ( Tableau ).
 
-## Project Objective:  
+
+## Project Objective ( Tableau ):  
 
 In Tableau, I used sales data from Superstore. Through it, I discovered that Tableau’s visual storytelling feature may easily uncover trends.
 
